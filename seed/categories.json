@@ -1,0 +1,170 @@
+[
+    {
+        "id": 35,
+        "count": 82,
+        "description": "",
+        "name": "2026-yil 3-son",
+        "slug": "2026-yil-3-son",
+        "parent": 0
+    },
+    {
+        "id": 36,
+        "count": 42,
+        "description": "",
+        "name": "2026-yil 4-son",
+        "slug": "2026-yil-4-son",
+        "parent": 0
+    },
+    {
+        "id": 38,
+        "count": 15,
+        "description": "",
+        "name": "2026-yil 5-son",
+        "slug": "2026-yil-5-son",
+        "parent": 0
+    },
+    {
+        "id": 6,
+        "count": 36,
+        "description": "",
+        "name": "Bank ishi, investisiya va soliqqa tortish",
+        "slug": "bank-ishi-investisiya-va-soliqqa-tortish",
+        "parent": 0
+    },
+    {
+        "id": 1,
+        "count": 64,
+        "description": "",
+        "name": "Bo'limsiz",
+        "slug": "bolimsiz",
+        "parent": 0
+    },
+    {
+        "id": 8,
+        "count": 17,
+        "description": "",
+        "name": "Buxgalteriya hisobi, tahlil va audit",
+        "slug": "buxgalteriya-hisobi-tahlil-va-audit",
+        "parent": 0
+    },
+    {
+        "id": 4,
+        "count": 7,
+        "description": "",
+        "name": "Byudjet va g\u2018aznachilik",
+        "slug": "byudjet-va-gaznachilik",
+        "parent": 0
+    },
+    {
+        "id": 11,
+        "count": 0,
+        "description": "",
+        "name": "Ilmiy anjumanlar sharhi",
+        "slug": "ilmiy-anjumanlar-sharhi",
+        "parent": 0
+    },
+    {
+        "id": 20,
+        "count": 2,
+        "description": "",
+        "name": "Iqtisodiy jarayonlarni modellashtirish",
+        "slug": "iqtisodiy-jarayonlarni-modellashtirish",
+        "parent": 0
+    },
+    {
+        "id": 21,
+        "count": 5,
+        "description": "",
+        "name": "Iqtisodiy tarmoqlar",
+        "slug": "iqtisodiy-tarmoqlar",
+        "parent": 0
+    },
+    {
+        "id": 3,
+        "count": 1,
+        "description": "",
+        "name": "Iqtisodiyot nazariyasi",
+        "slug": "iqtisodiyot-nazariyasi",
+        "parent": 0
+    },
+    {
+        "id": 18,
+        "count": 1,
+        "description": "",
+        "name": "IQTISODIYOT TARIXI",
+        "slug": "iqtisodiyot-tarixi",
+        "parent": 0
+    },
+    {
+        "id": 17,
+        "count": 1,
+        "description": "",
+        "name": "Iqtisodiyot va ta'lim",
+        "slug": "iqtisodiyot-va-talim",
+        "parent": 0
+    },
+    {
+        "id": 9,
+        "count": 0,
+        "description": "",
+        "name": "Menejment, marketing va logistika",
+        "slug": "menejment-marketing-va-logistika",
+        "parent": 0
+    },
+    {
+        "id": 5,
+        "count": 4,
+        "description": "",
+        "name": "Moliya va moliyaviy texnologiyalar",
+        "slug": "moliya-va-moliyaviy-texnologiyalar",
+        "parent": 0
+    },
+    {
+        "id": 19,
+        "count": 2,
+        "description": "",
+        "name": "Moliyaviy tahlil",
+        "slug": "moliyaviy-tahlil",
+        "parent": 0
+    },
+    {
+        "id": 23,
+        "count": 2,
+        "description": "",
+        "name": "Qimmatli qog'ozlar",
+        "slug": "qimmatli-qogozlar",
+        "parent": 0
+    },
+    {
+        "id": 10,
+        "count": 5,
+        "description": "",
+        "name": "Raqamli iqtisodiyot",
+        "slug": "raqamli-iqtisodiyot",
+        "parent": 0
+    },
+    {
+        "id": 12,
+        "count": 0,
+        "description": "",
+        "name": "Reklama",
+        "slug": "reklama",
+        "parent": 0
+    },
+    {
+        "id": 22,
+        "count": 2,
+        "description": "",
+        "name": "Statistika",
+        "slug": "statistika",
+        "parent": 0
+    },
+    {
+        "id": 7,
+        "count": 3,
+        "description": "",
+        "name": "Sug\u2018urta va pensiya ishi",
+        "slug": "sugurta-va-pensiya-ishi",
+        "parent": 0
+    }
+]
